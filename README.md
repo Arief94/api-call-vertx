@@ -2,6 +2,15 @@
 
 Repostory for kitalulus intersip test
 
+## Installation Guide
+<!-- UL -->
+* Make sure [jdk 8](https://www.oracle.com/br/java/technologies/javase/javase-jdk8-downloads.html) installed on your local machine
+* Make sure [maven](https://maven.apache.org/download.cgi) installed on your local machine
+* Clone this repostory
+* Get into this repository through terminal
+* Run command ``mvn vertx:run``
+* Open your browser and type ``http://localhost:8080/users``
+
 ## API Endpoint
 <!--- Horizontal Rule -->
 ___
