@@ -1,6 +1,6 @@
 ## About
 
-This repostory for kitalulus intersip test
+Repostory for kitalulus intersip test
 
 ## API Endpoint
 <!--- Horizontal Rule -->
